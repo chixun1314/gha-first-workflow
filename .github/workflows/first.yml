@@ -11,6 +11,6 @@ pwd-ls:
   steps:
   - name: Print working directory
   run: pwd
-  - name: List file
+  - name: List files
   run: ls -al
   
